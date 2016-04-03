@@ -1,6 +1,6 @@
 name: leaf republic
 favicon: null
-layout_spectrum: 0.88653
+layout_spectrum: 1
 typography_spectrum: 0.49016
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#b7edd3'
     - '#49bb57'
   brandStrength: 0
-  lightness: 0.5625
+  lightness: 0.5
   saturation: 0.1875
   rhythmicContrast: 0.25
 purpose: []
