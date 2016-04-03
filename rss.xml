@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[leaf republic]]></title>
         <description><![CDATA[leaf republic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leaf-republic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 13:14:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 13:32:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leaf-republic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff74c1e-3c6f-4201-892c-7c6bc0344637.png">]]></description>
+            <link>https://thegrid.ai/leaf-republic/25069344-6093-4d59-8262-9cfbf4b3a7fa/index.html</link>
+            <guid isPermaLink="false">25069344-6093-4d59-8262-9cfbf4b3a7fa</guid>
+            <pubDate>Sun, 03 Apr 2016 13:32:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/363a4171-ff6e-4bf6-b1b6-48e04b22bfbf.png">]]></description>
-            <link>undefined0f51640e-0ac9-4ff6-be3b-f31b6adb399e/index.html</link>
+            <link>https://thegrid.ai/leaf-republic/0f51640e-0ac9-4ff6-be3b-f31b6adb399e/index.html</link>
             <guid isPermaLink="false">0f51640e-0ac9-4ff6-be3b-f31b6adb399e</guid>
             <pubDate>Sun, 03 Apr 2016 13:14:35 GMT</pubDate>
         </item>
